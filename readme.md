@@ -1,8 +1,6 @@
 My Primary Github https://github.com/awaisshah228
-
-preview
 <h1 align="center">Hi 👋, I'm Muhammad Awais Shah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack BlockChain Developer from Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at [https://awaisshah228.vercel.app/](https://awaisshah228.vercel.app/)
 
