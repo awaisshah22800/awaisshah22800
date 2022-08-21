@@ -1,17 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-11384
-Fork on GitHub
-2893
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
+My Primary Github https://github.com/awaisshah228
 
 preview
 <h1 align="center">Hi 👋, I'm Muhammad Awais Shah</h1>
